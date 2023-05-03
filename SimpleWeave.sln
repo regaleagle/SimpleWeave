@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWeaveExample", "SimpleWeaveExample\SimpleWeaveExample.csproj", "{7883F989-1889-4BEF-A499-4D4CD59202CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWeave", "SimpleWeave\SimpleWeave.csproj", "{45CC754C-20A3-4023-944B-6C11611877A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWeaveIntermediaryLib", "SimpleWeaveIntermediaryLib\SimpleWeaveIntermediaryLib.csproj", "{3B3E181A-4202-4484-9424-66833BDD38F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7883F989-1889-4BEF-A499-4D4CD59202CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7883F989-1889-4BEF-A499-4D4CD59202CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7883F989-1889-4BEF-A499-4D4CD59202CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7883F989-1889-4BEF-A499-4D4CD59202CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CC754C-20A3-4023-944B-6C11611877A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CC754C-20A3-4023-944B-6C11611877A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CC754C-20A3-4023-944B-6C11611877A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CC754C-20A3-4023-944B-6C11611877A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3E181A-4202-4484-9424-66833BDD38F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3E181A-4202-4484-9424-66833BDD38F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3E181A-4202-4484-9424-66833BDD38F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3E181A-4202-4484-9424-66833BDD38F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
